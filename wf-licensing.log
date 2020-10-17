@@ -1,0 +1,972 @@
+[Sat, 03 Oct 2020 13:49:54 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:49:55 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:49:59 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:50:23 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:50:31 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:51:28 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:51:28 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:51:30 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:51:51 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:52:29 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:53:09 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:53:26 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:53:28 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:53:52 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:54:28 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:54:50 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:54:52 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:54:53 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:55:23 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:55:26 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:55:53 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:55:55 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:55:57 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:57:43 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:57:44 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:57:48 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
+[Sat, 03 Oct 2020 13:57:56 +0000] csmm: __construct
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [skip_hooks] => 
+    [disable_remote] => 
+    [debug] => 1
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+)
+Array
+(
+    [prefix] => csmm
+    [licensing_servers] => Array
+        (
+            [0] => https://dashboard.comingsoonwp.com/api/
+        )
+
+    [version] => 2.18
+    [slug] => minimal-coming-soon-maintenance-mode
+    [basename] => minimal-coming-soon-maintenance-mode/minimal-coming-soon-maintenance-mode.php
+    [plugin_file] => C:\Users\mahan\Local Sites\kite\app\public\wp-content\plugins\minimal-coming-soon-maintenance-mode\minimal-coming-soon-maintenance-mode.php
+    [js_folder] => https://kite.local/wp-content/plugins/minimal-coming-soon-maintenance-mode/framework/admin/js/
+    [api_ver] => v1/
+    [valid_forever] => 2035-01-01
+    [unlimited_installs] => 99999
+    [disable_remote] => 
+    [debug] => 1
+)
+
